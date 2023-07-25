@@ -19,6 +19,14 @@
 <img align="left" alt="WebStorm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" />
 <img align="left" alt="TensorFlow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
 <br />
+
+#
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+#
 <!--
 **ananafrida/ananafrida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
