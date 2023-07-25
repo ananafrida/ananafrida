@@ -24,7 +24,7 @@
 
 ### 📊 Stats
 
-![Anan's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=vue)
+![Anan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananafrida&show_icons=true&theme=vue)
 
 #
 <!--
